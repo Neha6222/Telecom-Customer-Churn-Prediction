@@ -1,7 +1,7 @@
 # Telecom-Customer-Churn-Prediction
 Customer Churn Prediction using Machine Learning and Power BI
 # 📊 Telecom Customer Churn Prediction & Power BI Dashboard
-
+![Dashboard](Dashboard.png)
 ## 📌 Project Overview
 
 This project predicts customer churn using Machine Learning and visualizes customer behavior through an interactive Power BI dashboard. The objective is to help businesses identify customers who are likely to churn and support customer retention strategies.
